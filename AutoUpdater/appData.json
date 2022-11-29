@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "AWSAccessKey": "YOUR_AWS_ACCESS_KEY_HERE",
+    "AWSSecretKey": "YOUR_AWS_SECRITY_KEY_HERE",
+    "BucketName": "S3_BUCKET_NAME",
+    "BucketSubFolder": "BUCKET_SUBFOLDER_NAME",
+    "LocalFolderToUploadFrom": "LOCAL FOLDER TO UPLOAD FROM",
+    "LocalFolderToDownloadTo": "LOCAL FOLDER TO DOWNLOAD TO",
+    "PathToAppExecutableToLaunchAfterUpdate": "EXECUTABLE TO LAUNCH AFTER DOWNLOADING"
+  }
+}
